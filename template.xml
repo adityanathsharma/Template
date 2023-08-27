@@ -3,5 +3,12 @@
     <user>
         <name>aditya</name>
         <email>aditya@gmail.com</email>
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+    <user>
+        <name>adi</name>
+        <email>adi@gmail.com</email>
+    </user>
+</root>
     </user>
 </root>
